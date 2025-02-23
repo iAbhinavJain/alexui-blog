@@ -1,7 +1,7 @@
 media: public/images
 content:
-  - name: projects
-    label: Projects
+  - name: posts
+    label: Posts
     type: collection
     path: content/blog
     view: 
